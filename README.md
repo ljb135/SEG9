@@ -23,7 +23,7 @@ This project is an all-in-one convenient stop for planning vacations, business t
 * Google Maps API - Location display using Google Maps
 
 ## Run Locally
-Execute the commands below in separate terminals. The terminals must be left running for the services to function.
+Execute the commands below to start the frontend and backend services.
 
 Frontend:
 #### `cd frontend`
